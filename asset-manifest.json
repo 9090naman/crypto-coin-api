@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/crypto-coin-api/static/css/main.e6c13ad2.css",
+    "main.js": "/crypto-coin-api/static/js/main.d9aea3af.js",
+    "index.html": "/crypto-coin-api/index.html",
+    "main.e6c13ad2.css.map": "/crypto-coin-api/static/css/main.e6c13ad2.css.map",
+    "main.d9aea3af.js.map": "/crypto-coin-api/static/js/main.d9aea3af.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.d9aea3af.js"
+  ]
+}
